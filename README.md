@@ -24,9 +24,10 @@ Pairs with [Total Levels Tracker](https://github.com/CRAZYLAZYAZY/lazymc-total-l
 
 ## Install
 
-1. Download the `.jar` from [Modrinth](https://modrinth.com/mod/no-death-xp-drop) or [CurseForge](https://curseforge.com/minecraft/mc-mods/no-death-xp-drop)
+1. Download the `.jar` from [Modrinth](https://modrinth.com/mod/lazymc-no-death-xp-drop) or [CurseForge](https://curseforge.com/minecraft/mc-mods/lazymc-no-death-xp-drop)
 2. Drop into `mods/` folder
-3. Done. No config, no commands.
+3. Type command /totallevels
+4. Done.
 
 ## License
 
