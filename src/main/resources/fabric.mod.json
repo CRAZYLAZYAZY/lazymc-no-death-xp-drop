@@ -2,7 +2,7 @@
   "schemaVersion": 1,
   "id": "nodeathxpdrop",
   "version": "${version}",
-  "name": "No Death XP Drop",
+  "name": "LazyMC - No Death XP Drop 1.21.1 Fabric",
   "description": "Players never drop XP orbs on death (independent of the keepInventory gamerule). Pairs with Total Levels Tracker: without this, dying and walking back to pick up your own dropped orbs would re-trigger addExperience() and inflate the lifetime total for XP that was never actually new - this closes that loophole at the source.",
   "authors": ["CRAZYLAZYAZY"],
   "contact": {},
