@@ -1,4 +1,4 @@
-# No Death XP Drop
+# LazyMC No Death XP Drop
 
 Players never drop XP orbs on death — independent of the `keepInventory` gamerule.
 
