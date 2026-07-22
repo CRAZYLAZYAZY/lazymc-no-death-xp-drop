@@ -2,7 +2,7 @@
 
 Players never drop XP orbs on death — independent of the `keepInventory` gamerule.
 
-Pairs with [Total Levels Tracker](https://github.com/CRAZYLAZYAZY/total-levels-tracker): without this mod, dying and walking back to pick up your own dropped orbs would re-trigger `addExperience()` and inflate the lifetime total for XP that was never actually new. This closes that loophole at the source.
+Pairs with [Total Levels Tracker](https://github.com/CRAZYLAZYAZY/lazymc-total-levels-tracker): without this mod, dying and walking back to pick up your own dropped orbs would re-trigger `addExperience()` and inflate the lifetime total for XP that was never actually new. This closes that loophole at the source.
 
 ![](examples/no-xp.png)
 
