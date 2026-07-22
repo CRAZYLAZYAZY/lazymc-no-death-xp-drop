@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "nodeathxpdrop",
+  "version": "${version}",
+  "name": "No Death XP Drop",
+  "description": "Players never drop XP orbs on death (independent of the keepInventory gamerule). Pairs with Total Levels Tracker: without this, dying and walking back to pick up your own dropped orbs would re-trigger addExperience() and inflate the lifetime total for XP that was never actually new - this closes that loophole at the source.",
+  "authors": ["CRAZYLAZYAZY"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {},
+  "mixins": ["nodeathxpdrop.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~1.21.11"
+  }
+}
